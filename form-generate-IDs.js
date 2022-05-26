@@ -4,7 +4,7 @@
         function run() {
           let inputs = [...document.getElementsByTagName('input')]
           let i = 1
-          checkRadioNames(inputs)
+          // checkRadioNames(inputs)
           setTextAndCheckboxIDs(inputs, i)
           setRadioIDs(inputs, i)
           setSignatureIDs(i)
