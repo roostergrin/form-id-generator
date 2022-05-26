@@ -4,7 +4,14 @@ iterates through a form, replaces any existing IDs, names, etc with sequential
 
 ## Instructions
 
-Copy / paste the js to a script tag in head
+Copy / paste the js to a script tag in head, or
+
+```
+<script
+  type="text/javascript"
+  src="https://cdn.jsdelivr.net/gh/roostergrin/form-id-generator@0.0.0/form-id-generator.js"
+></script>
+```
 
 To generate a new form html with sequential IDs:
 
