@@ -9,7 +9,7 @@ Copy / paste the js to a script tag in head, or
 ```
 <script
   type="text/javascript"
-  src="https://cdn.jsdelivr.net/gh/roostergrin/form-id-generator@0.0.0/form-id-generator.js"
+  src="https://cdn.jsdelivr.net/gh/roostergrin/form-id-generator@0.0.1/form-id-generator.js"
 ></script>
 ```
 
