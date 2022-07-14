@@ -4,7 +4,7 @@ iterates through a form, replaces any existing IDs, names, etc with sequential
 
 ## Instructions
 
-Copy / paste the js to a script tag in head, or
+Copy / paste the js to a script tag in head
 
 ```
 <script
